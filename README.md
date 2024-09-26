@@ -1,2 +1,5 @@
-![alt text](![hasil](https://github.com/user-attachments/assets/bec24b06-93bc-4bde-9ad8-8ba4852325ac)
+## HASIL RUNNING
+
+<img src="./src/img/![hasil](https://github.com/user-attachments/assets/17205089-1f06-42c8-8ac1-495803da1c7c)">
+
 
