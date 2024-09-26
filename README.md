@@ -1,1 +1,2 @@
-![alt text](!hasil(https://github.com/user-attachments/assets/dfcc36c0-6925-42ad-89a5-be72b21a2169)?raw=true)
+![alt text](![hasil](https://github.com/user-attachments/assets/bec24b06-93bc-4bde-9ad8-8ba4852325ac)
+
