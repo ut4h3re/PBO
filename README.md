@@ -1,6 +1,6 @@
 ## HASIL RUNNING
 
-<img src="./src/img/hasil.png">
+![alt text](hasil.png?raw=text)
 
 
 
